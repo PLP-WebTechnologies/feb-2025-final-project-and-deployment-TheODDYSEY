@@ -14,7 +14,10 @@ Ecommerce Website: Implement a multi-page site with navigation.
 > - Include at least:
 > - A responsive design.
 > - JavaScript interactivity.
-> - A deployment link.
+> - A deployment link. - https://feb-2025-final-project-and-deployment.onrender.com
+
+## Deployment Link
+You can view the deployed project here: [Nature Blog](https://feb-2025-final-project-and-deployment.onrender.com)
 
 ## Tasks
 
