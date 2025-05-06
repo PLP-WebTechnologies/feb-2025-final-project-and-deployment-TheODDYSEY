@@ -1,4 +1,4 @@
-# Kenya Nature Blog - Final Project
+# PLP Final Project : Kenya Nature Blog 
 
 ## Project Overview
 Kenya Nature Blog is a responsive, multi-page website dedicated to showcasing Kenya's natural beauty, wildlife, and conservation efforts. The website serves as a platform for nature enthusiasts to discover Kenya's diverse ecosystems, from the lush Kakamega Forest to the expansive Maasai Mara and the majestic Mount Kenya.
